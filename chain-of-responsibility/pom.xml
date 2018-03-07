@@ -9,6 +9,6 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>java-patterns-observer</artifactId>
+  <artifactId>java-patterns-chain-of-responsibility</artifactId>
 
 </project>

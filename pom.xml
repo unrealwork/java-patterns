@@ -9,8 +9,13 @@
   <packaging>pom</packaging>
   <version>0.0.1</version>
   <modules>
-    <module>java-patterns-observer</module>
+    <module>observer</module>
+    <module>chain-of-responsibility</module>
   </modules>
 
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
 
 </project>
